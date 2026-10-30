@@ -16,9 +16,9 @@
 ![On-premise](https://img.shields.io/badge/данные-не%20покидают%20контур-1f9d6b)
 ![Languages](https://img.shields.io/badge/язык-RU%20·%20KK%20·%20шала--казахский-6557FF)
 
-[▶ Демо-видео](demo/Kenes-AI-Demo-v2.mp4) · [Попробовать за минуту](#попробовать-за-минуту) · [Демо-протокол PDF](docs/demo/protocol.pdf) · [Скриншоты](#интерфейс) · [Архитектура](#архитектура) · [Статус](#что-готово)
+[▶ Демо-видео](https://drive.google.com/file/d/1P8NCPGgT8thdSaxVs_OlF85VWeqEipam/view?usp=sharing) · [Попробовать за минуту](#попробовать-за-минуту) · [Демо-протокол PDF](docs/demo/protocol.pdf) · [Скриншоты](#интерфейс) · [Архитектура](#архитектура) · [Статус](#что-готово)
 
-<a href="demo/Kenes-AI-Demo-v2.mp4"><img src="docs/screenshots/demo-video-cover.png" alt="Смотреть демо-видео Kenes AI, 44 секунды" width="900"></a>
+<a href="https://drive.google.com/file/d/1P8NCPGgT8thdSaxVs_OlF85VWeqEipam/view?usp=sharing"><img src="docs/screenshots/demo-video-cover.png" alt="Смотреть демо-видео Kenes AI, 44 секунды" width="900"></a>
 
 <sub>Нажмите, чтобы посмотреть 44-секундное демо: от ссылки на встречу до поручения под контролем</sub>
 
